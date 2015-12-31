@@ -1,0 +1,41 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Dec 15, 2015, 2:08:48 PM
+    Author     : v-kamai
+*/
+
+.livenav{
+    background-color: #eee;
+    border: 1px solid #ccc;    
+}
+
+.legend {
+    /* margin-bottom: 76px; */
+    display: inline-block;
+    /* border-collapse: collapse; */
+    /* border-spacing: 0px; */
+}
+
+.legend td {
+    padding: 4px 5px;
+    vertical-align: bottom;
+}
+
+.legendFreq, .legendPerc {
+    align: right;
+    width: 50px;
+}
+
+.legendYear{
+    text-align: center;
+    width: 100%;
+    margin-top: 0px;
+}
+
+.imageproduct {
+    width: 50px;
+}
